@@ -62,7 +62,7 @@ export const Repositories = styled.div`
     transition: transform 0.2s;
 
     & + a {
-      margin-top: 16px;
+      margin-top: 0 16px;
     }
 
     &:hover{
@@ -77,6 +77,7 @@ export const Repositories = styled.div`
 
     div {
       margin-left: 16px;
+      flex: 1;
 
       strong {
         font-size: 20px;

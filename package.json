@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "axios": "^0.19.2",
     "polished": "^3.6.5",
     "react-icons": "^3.10.0"
   }
