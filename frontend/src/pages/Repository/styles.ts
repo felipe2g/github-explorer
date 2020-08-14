@@ -94,7 +94,7 @@ export const Issues = styled.div`
     transition: transform 0.2s;
 
     & + a {
-      margin-top: 0 16px;
+      margin-top: 16px;
     }
 
     &:hover{
